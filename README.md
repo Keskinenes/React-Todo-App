@@ -14,6 +14,10 @@ Bu, React, Vite ve TailwindCSS kullanarak yapılmış basit bir Todo List uygula
 - **`useState`**: Todo listesi (`todoList`) ve görevlerin tamamlanma durumu (`isComplete`) gibi durumları yönetmek için kullanıldı.
 - **`useEffect`**: `todoList` her değiştiğinde, bu listeyi `localStorage` ile senkronize etmek için kullanıldı.
 - **`useRef`**: Yeni görevler eklemek için kullanılan input alanını referans almak ve ekleme işleminden sonra input alanını temizlemek için kullanıldı.
+- 
+### `classnames` Kütüphanesi
+
+Bu projede, dinamik CSS sınıf yönetimi için `classnames` kütüphanesi kullanılmıştır. `classnames`, koşullu olarak sınıfları ekleyip çıkarmamızı sağlar, böylece kod daha okunabilir ve yönetilebilir hale gelir. Özellikle, bir öğe tamamlandığında (isComplete), üzerine `line-through` ve `opacity-50` gibi sınıfların eklenmesi sağlanır. Bu sayede stil değişiklikleri daha verimli bir şekilde yapılır.
 
 ## Kullanılan İkonlar
 
