@@ -9,7 +9,6 @@ Bu, React, Vite ve TailwindCSS kullanarak yapılmış basit bir Todo List uygula
 - Görevler silinebilir.
 - Görevler, tarayıcının `localStorage` alanında kalıcı olarak saklanır.
 
-
 ## Kullanılan Hook'lar
 
 - **`useState`**: Todo listesi (`todoList`) ve görevlerin tamamlanma durumu (`isComplete`) gibi durumları yönetmek için kullanıldı.
