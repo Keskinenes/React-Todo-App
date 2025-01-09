@@ -8,8 +8,8 @@ Bu, React, Vite ve TailwindCSS kullanarak yapılmış basit bir Todo List uygula
 - Görevler tamamlandı olarak işaretlenebilir veya tamamlanmamış olarak kalabilir.
 - Görevler silinebilir.
 - Görevler, tarayıcının `localStorage` alanında kalıcı olarak saklanır.
-<img src="./screen/todo.PNG" width="30px"/>
-<img src="./screen/todo.PNG" width="30px"/>
+<img src="./screen/todo.PNG" width="50%"/>
+<img src="./screen/todo.PNG" width="50%"/>
 
 ## Kullanılan Hook'lar
 
