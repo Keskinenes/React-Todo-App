@@ -8,8 +8,7 @@ Bu, React, Vite ve TailwindCSS kullanarak yapılmış basit bir Todo List uygula
 - Görevler tamamlandı olarak işaretlenebilir veya tamamlanmamış olarak kalabilir.
 - Görevler silinebilir.
 - Görevler, tarayıcının `localStorage` alanında kalıcı olarak saklanır.
-<img src="./screen/todo.PNG" width="50%"/>
-<img src="./screen/todo.PNG" width="50%"/>
+
 
 ## Kullanılan Hook'lar
 
@@ -24,7 +23,5 @@ Bu, React, Vite ve TailwindCSS kullanarak yapılmış basit bir Todo List uygula
 - **`FaRegCalendarPlus`** (`react-icons/fa`): Başlık kısmında kullanılan bir ikon.
 
 ## Projeyi Çalıştırma
-
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
+<img src="./screen/todo.PNG" width="80%"/>
+<img src="./screen/todo2.PNG" width="80%"/>
